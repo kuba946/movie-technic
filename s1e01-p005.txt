@@ -4,3 +4,4 @@ curse					przeklinać
 chalk					kreda
 defaud					oszukać
 fudge					banialuki
+either        zarowno
