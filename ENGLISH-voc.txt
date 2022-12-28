@@ -1,0 +1,50 @@
+ENGLISH-voc.txt
+
+Added
+	coincidence
+	deed
+	overheard
+	robust
+	rapid
+	acknowledge
+	endure
+	follow-up
+	confusion
+	get her to sleep
+	get her to fall asleep
+	acquaintance
+	epiphany
+	misplaced
+	resemblance
+	carry out
+	to triage
+	entail
+	dilemma
+	clash
+	rephrase
+	severity
+	contradict
+	sufficient
+	certain
+	adjust
+	distinguish
+	smash
+	afterwards
+	conistent
+	discrepancy
+	coherent
+	crush
+	claim
+	accurate(ly)
+	appropriate
+	encounter
+	struggle
+	superfluous
+	sphere
+	liaison
+	plausibility
+
+New
+	...
+	cunning
+	deceit
