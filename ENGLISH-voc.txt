@@ -1,6 +1,6 @@
 ENGLISH-voc.txt
 
-Added
+Added 1
 	coincidence
 	deed
 	overheard
@@ -34,6 +34,7 @@ Added
 	discrepancy
 	coherent
 	crush
+Added 2
 	claim
 	accurate(ly)
 	appropriate
@@ -43,8 +44,9 @@ Added
 	sphere
 	liaison
 	plausibility
+	cunning
+	deceit
+	magnitude
 
 New
 	...
-	cunning
-	deceit
